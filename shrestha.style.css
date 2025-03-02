@@ -101,7 +101,7 @@ img{
     display: inline-block;
     margin: 0 0.5em;
     -webkit-animation: icon-animation 1s ease-in-out infinite;
-            animation: icon-animation 1s ease-in-out infinite;
+    animation: icon-animation 1s ease-in-out infinite;
     overflow: visible;
 }
 
