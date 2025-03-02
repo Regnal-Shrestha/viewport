@@ -54,7 +54,6 @@ table {
 @media (prefers-color-scheme: dark) {
     .theme-a.adaptive {
       background-color: darkgray;
-      color: #dcb;
       outline: 5px dashed #000;
     }
   }
